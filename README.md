@@ -1,4 +1,7 @@
 ## 團隊成員
 
--NAOJUN
--Fang
+- NAOJUN
+
+- Fang
+
+- Calvin
